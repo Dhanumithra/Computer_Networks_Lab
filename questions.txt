@@ -1,0 +1,6 @@
+1. ECHO CLIENT SERVER PROGRAM - USING TCP (15.06.26)
+
+2. TCP ITERATIVE SERVER - HANGMAN (23.06.26) develop tcp based hangman server. 
+develop a client application which allow the user to play with the client. 
+the user will lose the game if either the alloted time runs out or all available chances are used up.
+
